@@ -1,0 +1,3 @@
+Sistema operacional: Wsl - Ubuntu
+Compilador: gcc
+Parâmetros de compilação: -lm 
