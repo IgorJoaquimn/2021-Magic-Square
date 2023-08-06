@@ -3,8 +3,6 @@ Magic square solver implementation for small instances
 
 Aluno: Igor Joaquim da Silva Costa
 
-Matricula: 2021032218
-
 1 - Problema soma máxima
 Estratégia usada: calcular a soma de cada subconjunto pertencente ao conjunto potência do
 vetor apresentado.
